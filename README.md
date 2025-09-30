@@ -1,1 +1,1 @@
-# MA-Thesis-CoCitation-Network
+# MA-Thesis-Cocitation-Network
